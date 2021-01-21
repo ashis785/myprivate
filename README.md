@@ -7,7 +7,7 @@
 【links】tg://resolve?domain=ModXPro【links】
 
 
-【ver】2【ver】
+【ver】1【ver】
 【alert】
 DON'T USE CHEAT NOW BECAUSE ALL OLD ANTIBAN VALUES
 PATCHED..
@@ -21,6 +21,7 @@ THANKYOU HAVE A GOOD DAY🌹
 
 
 【A】【A】
+
 【B】f3165851206a0871【B】
 
   【C】【C】
