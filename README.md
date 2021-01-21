@@ -1,12 +1,10 @@
-【pass】stopcheat【pass】
+【pass】modxpro【pass】
 
 【version】1.0【version】
 
 【notes】Autocheck Update!!【notes】 
 
 【links】tg://resolve?domain=ModXPro【links】
-
-
 
 
 【ver】2【ver】
