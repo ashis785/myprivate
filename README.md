@@ -1,6 +1,6 @@
 【pass】modxpro【pass】
 
-【version】2.0【version】
+【version】1.0【version】
 
 【notes】Autocheck Update!!【notes】 
 
